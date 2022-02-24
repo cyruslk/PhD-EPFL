@@ -2,6 +2,8 @@
 
 "*La recherche création...faire des projets et écrire sur ces projets...tu ne t'es pas lancé dans quelque chose de facile!*"
 
+"Il est bon de suivre sa pente pourvu que ce soit en montant." André Gide, Les Faux-Monnayeurs (1925)
+
 **Cyrus: Introduction about my design works**
 
 - I'm interested in showing and <u>making visible tensions of the internet</u>, between the cloud and the (explicitely) material; creating networks|infrastructures where the digital, the analog and the physical are intertwined and are placed in a feedback loop/<u>stack</u>/chain of protocols
