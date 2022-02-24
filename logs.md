@@ -2,7 +2,7 @@
 
 "*La recherche création...faire des projets et écrire sur ces projets...tu ne t'es pas lancé dans quelque chose de facile!*"
 
-"Il est bon de suivre sa pente pourvu que ce soit en montant." André Gide, Les Faux-Monnayeurs (1925)
+"*Il est bon de suivre sa pente pourvu que ce soit en montant.*" André Gide, Les Faux-Monnayeurs (1925)
 
 **Cyrus: Introduction about my design works**
 
